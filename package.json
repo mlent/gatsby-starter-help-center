@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-starter-help-center",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A starter for using the @mlent/gatsby-theme-help-center theme.",
+  "repository": "git@github.com:mlent/gatsby-starter-help-center.git",
+  "author": "Monica Lent <lent.monica@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.17.7",
+    "gatsby-plugin-typescript": "^2.1.15",
+    "@mlent/gatsby-theme-help-center": "^1.0.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-feather": "^2.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
